@@ -7,7 +7,7 @@ A dynamic shopping cart application for laptop products, built using HTML, CSS, 
 - **Product Listing**: Displays a range of laptop products with details and prices.
 - **Add to Cart**: Adds products to a cart with quantity and total price calculation.
 - **Cart Management**: View, update quantities, and remove items from the cart.
-- **Bootstrap Modal**: Shows cart contents in a responsive modal.
+- **Bootstrap Modal**: Shows cart contents in a responsive modal
 
 ## Getting Started
 
